@@ -14,7 +14,7 @@ A 3D interactive animation of our solar system created using Three.js, featuring
 - Enhanced 3D orbit paths with tube geometry and glow effects
 - Detailed particle-based starfield background
 - Educational facts panel for each celestial body
-- Multi-language support (English, Chinese, Japanese, Spanish, French)
+- Multi-language support (English, Chinese, Japanese, Spanish, French, Russian)
 - Intuitive control panel with various viewing options
 
 ## How to Run
